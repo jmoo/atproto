@@ -17,9 +17,11 @@
     "@atproto/auth": "*",
     "@atproto/common": "*",
     "chalk": "^5.0.0",
+    "minimist": "^1.2.7",
     "prompt": "^1.2.1"
   },
   "devDependencies": {
-    "@types/prompt": "^1.1.2"
+    "@types/prompt": "^1.1.2",
+    "esbuild": "^0.14.48"
   }
 }

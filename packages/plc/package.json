@@ -31,6 +31,7 @@
     "express": "^4.17.2",
     "express-async-errors": "^3.1.1",
     "kysely": "^0.22.0",
+    "multiformats": "^9.6.4",
     "pg": "^8.8.0",
     "pino": "^8.6.1",
     "pino-http": "^8.2.1",
@@ -39,6 +40,7 @@
   },
   "devDependencies": {
     "@types/pg": "^8.6.5",
+    "esbuild": "^0.14.48",
     "eslint-plugin-prettier": "^4.2.1",
     "get-port": "^6.1.2"
   }
