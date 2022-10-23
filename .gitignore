@@ -9,3 +9,5 @@ packages/*/coverage
 test.sqlite
 .DS_Store
 *.log
+packages/*/rush.json
+.rush
